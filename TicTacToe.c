@@ -6,7 +6,7 @@
 #include <ctype.h>
 #include <assert.h>
 
-//Hey I did a bit of research for this project, I hope you like it -Liam Bond//
+//Hey I did a bit of research for this project so make sure to read README.md, I hope you like it -Liam Bond//
 
 #define HUMAN 'O'
 #define COMPUTER 'X'
